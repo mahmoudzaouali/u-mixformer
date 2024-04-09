@@ -127,7 +127,7 @@ Following is the visualization of our training process.
 
 This project is built on the foundation of the [U-Mixformer repository](https://github.com/julian-klitzing/u-mixformer) by [Julian Klitzing](https://github.com/julian-klitzing).
 
-We would like to extend our gratitude to Julian Klitzing for their valuable contributions to open source.
+We would like to extend our gratitude to Julian Klitzing and all team for their paper and the project.
 
 
   
