@@ -72,7 +72,7 @@ The document illustrate how to create conda environment for our project, and mak
 * Testing the brain project
 
 ```bash
-python tools/test.py configs/umixformer/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension.py work_dirs/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension/iter_10000.pth	
+python tools/test.py configs/umixformer/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension.py work_dirs/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension/iter_20000.pth	
 ```
 
 ## Visualization the project
@@ -80,7 +80,7 @@ python tools/test.py configs/umixformer/umixformer_mit-b0_8xb2-160k_brats2020-ad
 * Visualizing the prediction
 
   ```bash
-  python demo/image_demo.py data/img_dir/visualize/image_3557.jpg  configs/umixformer/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension.py work_dirs/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension/iter_10000.pth --out-file data/img_dir/visualize/output_3557.jpg --device cuda:0
+  python demo/image_demo.py data/img_dir/visualize/image_3557.jpg  configs/umixformer/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension.py work_dirs/umixformer_mit-b0_8xb2-160k_brats2020-adek_extension/iter_20000.pth --out-file data/img_dir/visualize/output_3557.jpg --device cuda:0
   ```
 
 
