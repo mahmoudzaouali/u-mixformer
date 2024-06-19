@@ -1,4 +1,4 @@
-The document illustrate how to create conda environment for our project, and make the result reproduce to you.
+The document illustrate how to create conda environment for our project, and reproduce the results.
 
 ## System overview
 
